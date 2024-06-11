@@ -9,6 +9,14 @@ from itertools import combinations
 from numbers import Number
 import shapely.plotting
 
+'''
+Implements functions and classes for representing Vehicles and Zones, 
+as well as checking their intersections.
+
+@author: Tyler Toner
+@email: twtoner@umich.edu
+'''
+
 def validate_coordinates(coordinates: List[List[float]]):
     '''
     Ensure that 'coordinates' is a valid list of coordinate pairs.
