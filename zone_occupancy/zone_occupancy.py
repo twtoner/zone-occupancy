@@ -290,7 +290,7 @@ def vehicles_intersect(vehicles: List[Vehicle]) -> bool:
 
     Args:
         vehicles (List[Vehicle]): The list of vehicles to check.
-x
+
     Returns:
         bool: True if any pair of vehicles intersect, False otherwise.
     '''
