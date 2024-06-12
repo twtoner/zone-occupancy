@@ -105,8 +105,8 @@ zone-occupancy/
 |   |-- __init__.py
 |   |-- test_zone_occupancy.py   # tests for zone_occupancy.py functionalities
 |   |-- empty.txt
-|-- README.md                    # Description of the package, installation instructions, etc.
 |   |-- zone_empty.json
+|-- README.md                    # Description of the package, installation instructions, etc.
 |-- data/
 |   |-- zone.json                # GeoJSON and other data files used by the package
 |-- examples/
